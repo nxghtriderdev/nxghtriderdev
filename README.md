@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nxghtriderdev
+- 👀 I’m interested in VideoGames.
+- 🌱 I’m currently learning Python, Lua, Java and JavaScript.
+- 📫 How to reach me: My discord: nxghtrider#0002. My DM's are always open!
